@@ -40,4 +40,5 @@ function exerciseDog(dogName, dogBreed) {
         result.push(routine[i](dogName, dogBreed));
     }
     return result; 
+    
 }
